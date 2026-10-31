@@ -1,4 +1,22 @@
 {
-  "releaseId": "0",
-  "items": []
+  "releaseId": "1",
+  "items": [
+    {
+      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "slug": "curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca-a9e27b8b",
+      "category": "discoveries",
+      "language": "en-US",
+      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]",
+      "body": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]",
+      "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca",
+      "sourcePublicationDate": "2026-10-28T05:39:46.000Z",
+      "lastVerifiedAt": "2026-10-29T09:33:02.914Z",
+      "publicationStatus": "published",
+      "expiryDate": null,
+      "isDemo": false,
+      "publishedAt": "2026-10-29",
+      "homepageSection": "daily-knowledge",
+      "tags": []
+    }
+  ]
 }
